@@ -1,4 +1,5 @@
 <div align="center">
+
 ```
 ██╗   ██╗██╗██╗   ██╗██╗ █████╗ ███╗   ██╗███████╗
 ██║   ██║██║██║   ██║██║██╔══██╗████╗  ██║██╔════╝
@@ -6,50 +7,131 @@
 ╚██╗ ██╔╝██║╚██╗ ██╔╝██║██╔══██║██║╚██╗██║██╔══╝  
  ╚████╔╝ ██║ ╚████╔╝ ██║██║  ██║██║ ╚████║███████╗
   ╚═══╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝
+                                            FERRO
 ```
-Mostrar Imagem
-<img src="https://komarev.com/ghpvc/?username=VivianeFerroS&color=blueviolet&style=flat-square&label=INTRUSOS+DETECTADOS" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%5BSYSTEM+BOOT...%5D;%3E+Initializing+VivianeFerroS...;%3E+Loading+security+modules...;%3E+Connecting+to+cyberspace...;%3E+Threat+Hunter+%2F+SOC+Analyst;%3E+CTF+Player+%2F+Malware+Analyst;%3E+ACCESS+GRANTED+%E2%9C%93)](https://git.io/typing-svg)
+
 </div>
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════╗
+║  > whoami                                        ║
+║  viviane.ferro — Security Analyst | CTF Player   ║
+║  > location: /br/cyberspace                      ║
+║  > status: [ONLINE] — hunting threats 24/7       ║
+╚══════════════════════════════════════════════════╝
+```
+
+</div>
+
 ```bash
-┌──(viviane㉿kali)-[~
-└─$ whoami
+$ cat about.txt
+```
 
-VivianeFerroS
-Security Researcher | Python Dev
-Turning coffee into exploits since day one
+```
+[*] Analista de Segurança apaixonada por Blue Team & Threat Hunting
+[*] Especialista em detecção de ameaças, análise de malware e SIEM
+[*] CTF Player — quebrando sistemas para aprender a defendê-los
+[*] Escritora de artigos técnicos sobre CyberSec
+[*] Stack: Wazuh | Splunk | Linux | Network Security | SOC
+```
 
-┌──(viviane㉿kali)-[~]
-└─$ cat interests.txt
-
-Penetration Testing
-Reverse Engineering
-CTF Challenges
-Ethical Hacking
-Python Automation
-
-┌──(viviane㉿kali)-[~]
-└─$ cat status.txt
-
-Currently: hacking... 👾
-Location: /dev/null
-OS: Kali Linux
 ---
+
+## `> ./connect.sh`
 
 <div align="center">
 
-### `> ARSENAL`
+[![LinkedIn](https://img.shields.io/badge/-%5B_LinkedIn_:_viviane--ferro_%5D-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A)](https://www.linkedin.com/in/viviane-ferro)
 
-![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=B000FF)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D0D0D?style=for-the-badge&logo=kalilinux&logoColor=B000FF)
-![Bash](https://img.shields.io/badge/Bash-0D0D0D?style=for-the-badge&logo=gnubash&logoColor=B000FF)
-![Metasploit](https://img.shields.io/badge/Metasploit-0D0D0D?style=for-the-badge&logo=metasploit&logoColor=B000FF)
-![Linux](https://img.shields.io/badge/Linux-0D0D0D?style=for-the-badge&logo=linux&logoColor=B000FF)
-![Wireshark](https://img.shields.io/badge/Wireshark-0D0D0D?style=for-the-badge&logo=wireshark&logoColor=B000FF)
-![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=B000FF)
-![VS Code](https://img.shields.io/badge/VS_Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=B000FF)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D0D0D?style=for-the-badge&logo=burpsuite&logoColor=B000FF)
-![Nmap](https://img.shields.io/badge/Nmap-0D0D0D?style=for-the-badge&logo=nmap&logoColor=B000FF)
+</div>
+
+---
+
+## `> ls ./certificacoes/`
+
+<div align="center">
+
+[![C3SA](https://img.shields.io/badge/-%5B_C3SA_-_Cyber_Warfare_%5D-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A)](https://labs.cyberwarfare.live/credential/achievement/699ef693cc83c3c209d28f61)
+[![BTF](https://img.shields.io/badge/-%5B_BTF_-_Cyber_Warfare_%5D-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=00FF41&labelColor=0A0A0A&color=0A0A0A)](https://labs.cyberwarfare.live/credential/achievement/697567fb46d815f91058061e)
+
+[![Analista SOC](https://img.shields.io/badge/-%5B_Analista_SOC_-_IBSEC_%5D-0A0A0A?style=for-the-badge&logo=security&logoColor=FF003C&labelColor=0A0A0A&color=0A0A0A)](https://certs.ibsec.com.br/?cert_hash=fbc6a7ab968d6755)
+[![Segurança Linux](https://img.shields.io/badge/-%5B_Segurança_em_Linux_-_IBSEC_%5D-0A0A0A?style=for-the-badge&logo=linux&logoColor=FF003C&labelColor=0A0A0A&color=0A0A0A)](https://certs.ibsec.com.br/?cert_hash=f18696b2c7f0b51e)
+
+[![Network Basics](https://img.shields.io/badge/-%5B_Network_Basics_-_Credly_%5D-0A0A0A?style=for-the-badge&logo=cisco&logoColor=00BFFF&labelColor=0A0A0A&color=0A0A0A)](https://www.credly.com/badges/9ff2c257-6f34-44e3-a736-318a763f51a0/linked_in_profile)
+
+</div>
+
+---
+
+## `> cat ./artigos/index.txt`
+
+```
+[INTEL FEED] — Publicações Técnicas
+```
+
+<div align="center">
+
+[![Malware Analysis](https://img.shields.io/badge/-%5B_Análise_Básica_de_Malware_%5D-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF003C&labelColor=0A0A0A)](https://www.linkedin.com/pulse/an%25C3%25A1lise-b%25C3%25A1sica-de-malware-compartilhando-o-que-aprendi-viviane-ferro-rfwnf/?trackingId=QtLOe5fHSX6siLBKqTSzLA%3D%3D)
+
+[![Wazuh Rules](https://img.shields.io/badge/-%5B_Detecção_Inteligente_com_Wazuh_%5D-0A0A0A?style=for-the-badge&logo=medium&logoColor=00FF41&labelColor=0A0A0A)](https://medium.com/@vivianeferrosilva/detec%C3%A7%C3%A3o-inteligente-com-wazuh-construindo-regras-de-alertas-personalizadas-3cdf01521205)
+
+[![Dashboards SOC](https://img.shields.io/badge/-%5B_Do_Caos_à_Visão_Estratégica:_Dashboards_%5D-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF003C&labelColor=0A0A0A)](https://www.linkedin.com/pulse/do-caos-%C3%A0-vis%C3%A3o-estrat%C3%A9gica-como-pain%C3%A9is-e-relat%C3%B3rios-viviane-ferro-ng7cf/?trackingId=XBrT0IVzt6tB4Xrd3p%2F9Nw%3D%3D)
+
+[![SPL Splunk](https://img.shields.io/badge/-%5B_Explorando_SPL_da_Ferramenta_Splunk_%5D-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF003C&labelColor=0A0A0A)](https://www.linkedin.com/pulse/explorando-linguagem-de-processamento-busca-spl-da-ferramenta-ferro-caonf/?trackingId=mO5uCwEiSR69kWaUXxwyMQ%3D%3D)
+
+</div>
+
+---
+
+## `> ./ctf --status`
+
+```
+╔══════════════════════════════════════════════════╗
+║  [CTF PLAYER]                                    ║
+║  > Plataformas: TryHackMe | HackTheBox |         ║
+║                 Cyber Warfare Labs               ║
+║  > Foco: Blue Team | Forensics | OSINT           ║
+║  > Status: [ACTIVE] — sempre em missão           ║
+╚══════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+[![TryHackMe](https://img.shields.io/badge/-%5B_TryHackMe_%5D-0A0A0A?style=for-the-badge&logo=tryhackme&logoColor=FF003C&labelColor=0A0A0A)](https://tryhackme.com)
+[![HackTheBox](https://img.shields.io/badge/-%5B_HackTheBox_%5D-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=00FF41&labelColor=0A0A0A)](https://hackthebox.com)
+
+</div>
+
+---
+
+## `> htop --skills`
+
+```
+CPU  [██████████████░░░░░░] SIEM / Wazuh / Splunk
+MEM  [████████████░░░░░░░░] Threat Hunting
+NET  [███████████████░░░░░] Network Security
+SEC  [██████████░░░░░░░░░░] Malware Analysis
+OS   [██████████████░░░░░░] Linux
+LOG  [█████████████░░░░░░░] Log Analysis / SOC
+```
+
+---
+
+## `> git log --stats`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivianeFerroS&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF41&icon_color=FF003C&text_color=00FF41)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeFerroS&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF41&text_color=00FF41)
+
+![Streak](https://streak-stats.demolab.com?user=VivianeFerroS&theme=matrix&hide_border=true&background=0A0A0A&ring=00FF41&fire=FF003C&currStreakLabel=00FF41)
 
 </div>
 
@@ -57,43 +139,18 @@ OS: Kali Linux
 
 <div align="center">
 
-### `> SYSTEM METRICS`
+```
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║   "The quieter you become,                       ║
+║    the more you are able to hear."               ║
+║                          — Kali Linux            ║
+║                                                  ║
+║   [CONNECTION CLOSED] — Session terminated.      ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VivianeFerroS&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=B000FF&title_color=B000FF&icon_color=9000CC&hide_border=false"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeFerroS&layout=compact&langs_count=7&theme=midnight-purple&border_color=B000FF&title_color=B000FF&hide_border=false"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=VivianeFerroS&theme=midnight-purple&border=B000FF&ring=B000FF&fire=FF00FF&currStreakLabel=B000FF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-### `> ACTIVITY MATRIX`
-
-[![VivianeFerroS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VivianeFerroS&theme=high-contrast&color=B000FF&line=9000CC&point=FF00FF&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Visitor Count](https://komarev.com/ghpvc/?username=VivianeFerroS&color=00ff41&style=flat-square&label=VISITORS+TRACKED)
 
 </div>
-
----
-
-<div align="center">
-
-### `> ESTABLISH CONNECTION`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=B000FF)](https://linkedin.com/in/VivianeFerroS)
-[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=B000FF)](https://github.com/VivianeFerroS)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0D0D0D?style=for-the-badge&logo=tryhackme&logoColor=B000FF)](https://tryhackme.com/p/VivianeFerroS)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-0D0D0D?style=for-the-badge&logo=hackthebox&logoColor=B000FF)](https://app.hackthebox.com/profile/VivianeFerroS)
-
-</div>
-
----
-
-<div align="center">
